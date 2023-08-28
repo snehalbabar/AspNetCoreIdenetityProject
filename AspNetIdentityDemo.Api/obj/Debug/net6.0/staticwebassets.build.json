@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wFRzcM7MwmiVO5Ppri7RyWuS+C9o4T7UTn7p6pSw0wc=",
+  "Source": "AspNetIdentityDemo.Api",
+  "BasePath": "_content/AspNetIdentityDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

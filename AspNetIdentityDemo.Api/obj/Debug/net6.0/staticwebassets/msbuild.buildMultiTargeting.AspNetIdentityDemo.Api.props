@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/AspNetIdentityDemo.Api.props" />
+</Project>

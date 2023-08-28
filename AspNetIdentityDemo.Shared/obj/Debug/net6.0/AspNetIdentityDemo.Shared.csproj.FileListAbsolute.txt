@@ -1,0 +1,12 @@
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/bin/Debug/net6.0/AspNetIdentityDemo.Shared.deps.json
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/bin/Debug/net6.0/AspNetIdentityDemo.Shared.dll
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/bin/Debug/net6.0/AspNetIdentityDemo.Shared.pdb
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.csproj.AssemblyReference.cache
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.AssemblyInfoInputs.cache
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.AssemblyInfo.cs
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.csproj.CoreCompileInputs.cache
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.dll
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/refint/AspNetIdentityDemo.Shared.dll
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/AspNetIdentityDemo.Shared.pdb
+/Users/snehal/Projects/Projects/ApiSecurity/AspNetIdentityDemo.Shared/obj/Debug/net6.0/ref/AspNetIdentityDemo.Shared.dll
